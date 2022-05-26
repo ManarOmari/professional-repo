@@ -1,4 +1,4 @@
 #.gitignore
-node_modules/
-nodes/
-test.md/
+/node_modules
+
+test.md
